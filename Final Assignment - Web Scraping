@@ -1,27 +1,27 @@
 README.md
 
-# 🧠 Final Assignment - Web Scraping
+#Final Assignment - Web Scraping
 
 This project extracts and visualizes **Tesla** and **GameStop** data using **Python**, **BeautifulSoup**, and **Plotly**.
 
-## 📁 Contents
+##Contents
 - Tesla stock and revenue data  
 - GameStop stock and revenue data  
 - Combined visualization using Plotly subplots  
 
-## 🛠️ Tools Used
+##Tools Used
 - Python  
 - Requests  
 - BeautifulSoup  
 - Pandas  
 - Plotly  
 
-## 📊 Output
+## Output
 Interactive visualization comparing Tesla and GameStop stock prices and revenues.
 
 ---
 
-📂 **How to View the Project**
+**How to View the Project**
 Click on `Final_Assignment.ipynb` above to open the Jupyter Notebook and view the full analysis.
 
 (Note: Plot displays correctly in IBM Skills Network Lab but may not appear on GitHub.)
